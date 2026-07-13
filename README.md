@@ -1,50 +1,52 @@
 # 👋 Hi, I'm Javier Picazo Trigueros
 
-🎓 **Computer Engineering Student** (3rd Year) at **Universidad Francisco de Vitoria (UFV), Madrid**  
-🔐 **Minor in Cybersecurity** | 💸 Passionate about **Finance & Technology**  
-🌍 Currently collaborating with students from **The Hague (Netherlands)** on an international **Software Engineering project**
-
----
+🎓 **Computer Engineering Student (3rd Year)** at Universidad Francisco de Vitoria (UFV), Madrid
+🤖 Focused on **Artificial Intelligence & Data Science** | 🔐 Minor in Cybersecurity
+🌍 Bilingual Spanish/English (Cambridge C1, academic year in Canada)
 
 ## 🧠 About Me
-I'm a proactive and curious Computer Engineering student interested in **cybersecurity, software engineering, and financial technology**.  
-I enjoy working on real-world projects that connect **code, security, and business**, and I'm always looking for new challenges to learn and grow as a developer.
 
----
+I'm a Computer Engineering student specializing in **AI and data**, with hands-on experience in deep learning (computer vision and NLP), applied machine learning, and taking full-stack projects all the way to production. I like building things that actually ship — from training a CNN to debugging a broken deployment pipeline at 2 AM.
+
+Currently looking for an **AI / Data Science internship in Madrid (September–May)**.
+
+## 🚀 Featured Projects
+
+* 🗳️ **VTB — Vote Through Blockchain** — Winner of the UFV–Alastria hackathon, in collaboration with the Blockchain Cluster of the Community of Madrid. A web platform for institutional voting with publicly verifiable results on Ethereum (Sepolia). React + TypeScript/Express + Solidity, deployed on Vercel/Render. I built the admin panel, the public transparency page, and solved the full production deployment chain.
+* 🧠 **Deep Learning Portfolio (AI II — avg. grade 9/10)** — Facial expression recognition with a CNN designed from scratch (Keras Tuner/Hyperband, class-imbalance strategies) and transfer learning with MobileNetV2 (two-phase fine-tuning). Plus NLP with word embeddings, RNNs vs. Transformers, and unsupervised learning with SOMs.
+* 📊 **Machine Learning & Data Mining Portfolio (avg. grade 8.7/10)** — Multiclass classification, regression on real Madrid air-quality data, and clustering — scikit-learn, Pandas, NumPy, Matplotlib.
+* ☁️ **Multi-Account AWS Cloud Infrastructure** — Distributed architecture across 5 AWS accounts with cross-account VPC Peering, Nginx load balancing, and PostgreSQL. IAM roles under the principle of least privilege.
 
 ## 💻 Tech Stack
-**Languages:**  
-`Python`  `C`  `C++`  `C# (.NET)`  `Java`  `JavaScript`  `HTML/CSS`  `Assembler (Z80, x86)`
 
-**Frameworks & Tools:**  
-`ASP.NET`  `Entity Framework`  `Git / GitHub`  `Visual Studio`  `VS Code`  `MATLAB`  `Kali Linux`  `Wireshark`  `Nmap`  `Docker`
+**Languages:**
+`Python` `SQL` `TypeScript / JavaScript` `C / C++` `C#` `Solidity` `Java`
 
-**Areas of Interest:**  
-🧩 Software Architecture & Engineering  
-🧠 Cybersecurity & Ethical Hacking  
-📊 FinTech, Algorithmic Trading, and Data Analysis  
-🌐 Cloud & Web Development  
+**AI & Data:**
+`TensorFlow / Keras` `PyTorch` `scikit-learn` `Pandas` `NumPy` `Matplotlib` `Keras Tuner`
 
----
+**Web & Cloud:**
+`React` `Express` `Node.js` `AWS (EC2, VPC, IAM, S3)` `Docker` `Nginx` `Vercel` `Render` `Git / GitHub`
 
-## 🚀 Current Projects
-- **🌍 International Software Engineering Project** – developing a collaborative app with students from *The Hague University (Netherlands)* using Agile methodology and GitHub integration.  
-- **🔐 Cybersecurity Practice Labs** – focused on ethical hacking, penetration testing, and secure coding.  
-- **📈 Finance Automation Scripts** – small Python tools for data visualization and portfolio tracking.  
+**Databases & Security:**
+`MySQL` `PostgreSQL` `SQLite` `Kali Linux` `Wireshark` `Nmap` `Cisco Packet Tracer`
 
----
+## 🎯 Areas of Interest
+
+* 🤖 Machine Learning & Deep Learning (computer vision, NLP)
+* 📊 Data Analysis & Applied AI in business
+* 🔐 Security applied to data systems
+* 📈 FinTech & algorithmic trading
 
 ## 🏆 Highlights
 
-- Participant in UFV hackathons & programming challenges  
-- Completed Python and cybersecurity online certifications  
-
----
+* 🥇 **Winner** — UFV–Alastria Blockchain Hackathon (VTB project)
+* 🌍 **Product Owner** in an international Software Engineering project with The Hague University (Netherlands), managing the Product Backlog in a multicultural Scrum team
+* 🛡️ Preparing the **Certified Network Defender (CND)** certification (EC-Council)
 
 ## 📫 Connect with Me
-- **LinkedIn:** [Javier Picazo Trigueros](https://www.linkedin.com/in/javier-picazo-trigueros)  
-- **GitHub:** [github.com/JavierPicazo](https://github.com/javier-picazo-trigueros)  
-- **Email:** javierpicazo0404@gmail.com
 
+* LinkedIn: [Javier Picazo Trigueros]([https://www.linkedin.com/in/javier-picazotrigueros](https://www.linkedin.com/in/javier-picazo-trigueros-4734452b0/))
+* Email: [javierpicazo0404@gmail.com](mailto:javierpicazo0404@gmail.com)
 
 
